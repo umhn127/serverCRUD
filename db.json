@@ -1,0 +1,52 @@
+{
+  "todos": [
+    {
+      "id": "asdq23123",
+      "title": "UUID Oluştur",
+      "status": "daily",
+      "date": "1/18/2024"
+    },
+    {
+      "id": "6c910fdb-9f49-4d22-8b44-ebc2212c18ce",
+      "title": "js çalış",
+      "status": "daily",
+      "date": "13.03.2024"
+    },
+    {
+      "id": "6a845e4d-b6a4-4873-98f5-4932cf767b68",
+      "title": "react çalış",
+      "status": "daily",
+      "date": "13.03.2024"
+    },
+    {
+      "id": "9aa15616-20c5-4699-9503-1d092e9df304",
+      "title": "nasıl olcak bu işler",
+      "status": "important",
+      "date": "13.03.2024"
+    },
+    {
+      "id": "05cd8e7e-8034-490c-ade2-e452f33bd34b",
+      "title": "axios",
+      "status": "important",
+      "date": "13.03.2024"
+    },
+    {
+      "id": "1a131c5e-c732-4167-8215-0fc60d347ba8",
+      "title": "atse",
+      "status": "job",
+      "date": "13.03.2024"
+    },
+    {
+      "id": "e066c81c-f03e-4cf6-9eec-3e2524b31642",
+      "title": "asfgh",
+      "status": "important",
+      "date": "13.03.2024"
+    },
+    {
+      "id": "7f72cab2-e301-46f6-ab3f-7a3149e28721",
+      "title": "asfgh",
+      "status": "important",
+      "date": "13.03.2024"
+    }
+  ]
+}
