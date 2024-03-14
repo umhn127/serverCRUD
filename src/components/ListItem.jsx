@@ -1,10 +1,10 @@
 import axios from "axios";
-import formatDate from "../utils/formatDate";
 import ContentMode from "./ContentMode";
 import EditMode from "./EditMode";
 import { useState } from "react";
 import { toast } from "react-toastify";
 import getStatus from "../utils/getStatus";
+import formatDate from "../utils/FormatDate";
 
 const ListItem = ({ todo, setTodos, allTodos }) => {
   const [isEdit, setIsEdit] = useState(false);

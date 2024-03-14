@@ -31,22 +31,22 @@
       "date": "13.03.2024"
     },
     {
-      "id": "1a131c5e-c732-4167-8215-0fc60d347ba8",
-      "title": "atse",
+      "id": "63f38a8b-ff25-435a-980c-0275681fd626",
+      "title": "software",
       "status": "job",
-      "date": "13.03.2024"
+      "date": "14.03.2024"
     },
     {
-      "id": "e066c81c-f03e-4cf6-9eec-3e2524b31642",
-      "title": "asfgh",
-      "status": "important",
-      "date": "13.03.2024"
+      "id": "e5b3f276-d7fb-4a83-a87e-21fff30174da",
+      "title": "ders tekrarı yap",
+      "status": "daily",
+      "date": "14.03.2024"
     },
     {
-      "id": "7f72cab2-e301-46f6-ab3f-7a3149e28721",
-      "title": "asfgh",
+      "id": "441c716c-8905-4483-b86c-f250740175d7",
+      "title": "kaynak araştır",
       "status": "important",
-      "date": "13.03.2024"
+      "date": "14.03.2024"
     }
   ]
 }
