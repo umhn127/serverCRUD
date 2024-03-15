@@ -4,8 +4,7 @@ import EditMode from "./EditMode";
 import { useState } from "react";
 import { toast } from "react-toastify";
 import getStatus from "../utils/getStatus";
-import formatDate from "../utils/FormatDate";
-
+import formatDate from "../utils/formatDate";
 const ListItem = ({ todo, setTodos, allTodos }) => {
   const [isEdit, setIsEdit] = useState(false);
   //sil butonuna tıklayınca çalışır

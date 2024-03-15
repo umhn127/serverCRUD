@@ -1,12 +1,6 @@
 {
   "todos": [
     {
-      "id": "asdq23123",
-      "title": "UUID Oluştur",
-      "status": "daily",
-      "date": "1/18/2024"
-    },
-    {
       "id": "6c910fdb-9f49-4d22-8b44-ebc2212c18ce",
       "title": "js çalış",
       "status": "daily",
@@ -47,6 +41,12 @@
       "title": "kaynak araştır",
       "status": "important",
       "date": "14.03.2024"
+    },
+    {
+      "id": "0e47def4-e144-4283-aacc-a6876b084698",
+      "title": ":)",
+      "status": "job",
+      "date": "15.03.2024"
     }
   ]
 }
