@@ -14,7 +14,7 @@
     },
     {
       "id": "9aa15616-20c5-4699-9503-1d092e9df304",
-      "title": "nasıl olcak bu işler",
+      "title": "js projesi yap",
       "status": "important",
       "date": "13.03.2024"
     },
@@ -47,6 +47,18 @@
       "title": ":)",
       "status": "job",
       "date": "15.03.2024"
+    },
+    {
+      "id": "dca67f7e-7066-4d32-b90b-936ea2d481d3",
+      "title": "redux öğren",
+      "status": "job",
+      "date": "30.03.2024"
+    },
+    {
+      "id": "86cd1a67-1da1-46bc-90cc-89710060213b",
+      "title": "gülümse",
+      "status": "important",
+      "date": "30.03.2024"
     }
   ]
 }
